@@ -31,3 +31,7 @@ The build is minified and the filenames include the hashes.
 `firebase deploy`
 
 To deploy the app please follow the steps specified in [the Firebase documentation](https://firebase.google.com/docs).
+
+Team members
+@Micha5z
+@thomson159
