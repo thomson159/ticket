@@ -32,6 +32,7 @@ The build is minified and the filenames include the hashes.
 
 To deploy the app please follow the steps specified in [the Firebase documentation](https://firebase.google.com/docs).
 
-Team members
-@Micha5z
-@thomson159
+## Team members
+
+[@Micha5z](https://github.com/Micha5z)
+[@thomson159](https://github.com/thomson159)
