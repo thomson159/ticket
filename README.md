@@ -46,6 +46,12 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 
 The build is minified and the filenames include the hashes.
 
+### The text on the web app is in Polish language. 🇵🇱
+
+## Contact
+
+<a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+
 ## Team members
 
 [@Micha5z](https://github.com/Micha5z)
